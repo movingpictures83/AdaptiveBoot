@@ -1,0 +1,2 @@
+Prefix plugins/AdaptiveBoot/example/
+Plugin AdaptiveBoot inputfile none outputfile output.rds
